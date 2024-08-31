@@ -1,5 +1,5 @@
 # 💫 About Me:
-passionate software developer <br>with extensive experience in full-stack technologies. <br>On the frontend, I am proficient in React, Next.js, and JavaScript, <br>while on the backend, I excel in Node.js and C#. <br>I possess a strong foundation in algorithms, <br>with a particular expertise in object-oriented programming (OOP). <br>Within OOP, I am well-versed in the SOLID principles.<br>🔭 I’m currently working on a Full Stack Project for the Stock Market<br>
+I am passionate software developer <br>with extensive experience in full-stack technologies. <br>On the frontend, I am proficient in React, Next.js, and JavaScript, <br>while on the backend, I excel in Node.js and C#. <br>I possess a strong foundation in algorithms, <br>with a particular expertise in object-oriented programming (OOP). <br>Within OOP, I am well-versed in the SOLID principles.<br>🔭 I’m currently working on a Full Stack Project for the Stock Market<br>
 
 
 # 💻 Tech Stack:
