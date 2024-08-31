@@ -12,8 +12,6 @@ I am passionate software developer <br>with extensive experience in full-stack t
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=yagelarbiv&limit=5&theme=shadow_blue&combine_all_yearly_contributions=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=yagelarbiv&icon=2&color=1)](https://visitcount.itsvg.in)
